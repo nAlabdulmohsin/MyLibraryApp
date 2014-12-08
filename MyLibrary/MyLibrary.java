@@ -78,7 +78,7 @@ public class MyLibrary {
 		
 		return p1.getMaxBooks();
 	}
-	public ArrayList<Book> getAvailableBooks()
+	public ArrayList<Book> getAvailableBooks() //this has not been completed as it returns the whole list
 	{
 	
 		return books;
