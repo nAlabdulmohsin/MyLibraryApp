@@ -82,4 +82,6 @@ public class MyLibraryTest extends TestCase{
 		assertTrue(m.checkout(b1, p1));
 		assertFalse(m.checkout(b1, p2));
 	}
+	
+	//public void testgetAvailableBooks() should be added
 }
